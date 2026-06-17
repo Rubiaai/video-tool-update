@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "title": "发现新版本",
+  "notes": "当前是测试更新配置。",
+  "download_url": "你的飞书下载链接",
+  "force": false
+}
